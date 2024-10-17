@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWToken", "JWToken\JWToken.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkDbFirstProduct", "EntityFrameworkDbFirstProduct\EntityFrameworkDbFirstProduct.csproj", "{DA6B8F4C-373E-43CB-B2F5-E4691889B53B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdonetCustomer", "AdonetCustomer\AdonetCustomer.csproj", "{94108BA4-A75A-4F71-B200-2C833A1DB701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailRegister", "MailRegister\MailRegister.csproj", "{9CA0EE9B-AC88-4F8C-A8DC-DF0729FD6B45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{DA6B8F4C-373E-43CB-B2F5-E4691889B53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA6B8F4C-373E-43CB-B2F5-E4691889B53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA6B8F4C-373E-43CB-B2F5-E4691889B53B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94108BA4-A75A-4F71-B200-2C833A1DB701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94108BA4-A75A-4F71-B200-2C833A1DB701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94108BA4-A75A-4F71-B200-2C833A1DB701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94108BA4-A75A-4F71-B200-2C833A1DB701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CA0EE9B-AC88-4F8C-A8DC-DF0729FD6B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA0EE9B-AC88-4F8C-A8DC-DF0729FD6B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA0EE9B-AC88-4F8C-A8DC-DF0729FD6B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA0EE9B-AC88-4F8C-A8DC-DF0729FD6B45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
