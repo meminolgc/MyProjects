@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdonetCustomer", "AdonetCus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailRegister", "MailRegister\MailRegister.csproj", "{9CA0EE9B-AC88-4F8C-A8DC-DF0729FD6B45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperNorthwind", "DapperNorthwind\DapperNorthwind.csproj", "{C52D8A6E-34A7-4F4B-AB11-BD1F6ECDFBBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreCodeFirst", "EFCoreCodeFirst\EFCoreCodeFirst.csproj", "{9840E172-3707-4A81-B307-187898FFA85D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{9CA0EE9B-AC88-4F8C-A8DC-DF0729FD6B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CA0EE9B-AC88-4F8C-A8DC-DF0729FD6B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CA0EE9B-AC88-4F8C-A8DC-DF0729FD6B45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C52D8A6E-34A7-4F4B-AB11-BD1F6ECDFBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C52D8A6E-34A7-4F4B-AB11-BD1F6ECDFBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C52D8A6E-34A7-4F4B-AB11-BD1F6ECDFBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C52D8A6E-34A7-4F4B-AB11-BD1F6ECDFBBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9840E172-3707-4A81-B307-187898FFA85D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9840E172-3707-4A81-B307-187898FFA85D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9840E172-3707-4A81-B307-187898FFA85D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9840E172-3707-4A81-B307-187898FFA85D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
